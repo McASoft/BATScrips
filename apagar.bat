@@ -1,0 +1,1 @@
+C:\WINDOWS\system32\shutdown.exe -s -t 3000 -c "Ejecuta CANCELAR para cancelar el apagado (en el escritorio)"
